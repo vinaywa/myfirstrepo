@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 Hi i like scm i have no skill
+Hi i like scm i have skills
